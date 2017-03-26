@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "Anna Ossowski"
+description: "The Personal Website of Anna Ossowski"
 
 # Build settings
 markdown: kramdown
@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Anna Ossowski"
-resume_title:                   "Anna Ossowski's Personal Website"
+resume_title:                   "The Personal Website of Anna Ossowski"
 resume_contact_email:
   "annabell.ossowski@gmail.com"
 resume_header_contact_info: ""
